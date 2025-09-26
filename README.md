@@ -26,14 +26,12 @@ titanic-ml-tutorial/
 │   │   ├─ 02_survival_by_sex_pclass.png
 │   │   ├─ 03_age_fare.png
 │   │   ├─ 04_survival_by_title.png
-│   │   ├─ 07_permutation_importance.png
-│   │   ├─ 15_eval_curves.png
-│   │   └─ 16_calibration.png
+│   │   ├─ ...
 │   └─ leaderboard.csv                    # model comparison results
 ├─ models/
-│   └─ best_pipeline.joblib               # serialized model (optional)
+│   └─ best_pipeline.joblib               # serialized model
 ├─ requirements.txt                       # dependencies
-└─ README.md                              # this file
+└─ README.md                              
 ```
 
 ---
