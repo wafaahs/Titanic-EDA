@@ -1,0 +1,37 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Data files (don’t commit Kaggle CSVs)
+
+data/
+*.csv
+*.tsv
+
+# Model artifacts
+
+models/
+*.joblib
+*.pkl
+
+# Reports (optional: keep only figures/leaderboard)
+
+reports/*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
