@@ -159,8 +159,8 @@ p_hat = pipe.predict_proba(X_new)[:, 1]
 
 ## Links
 - Kaggle competition: https://www.kaggle.com/c/titanic
-- (Add Kaggle Notebook URL once published)
-- (Add GitHub repository URL once published)
+- Kaggle Notebook: https://www.kaggle.com/code/wafaaelhusseini/titanic-eda
+- GitHub repository: https://github.com/wafaahs/Titanic-EDA
 
 ---
 
